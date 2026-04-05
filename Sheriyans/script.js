@@ -7,5 +7,5 @@
 // console.log(user);
 
 
-import age from './test.js';
-console.log(age);
+import {city} from './test.js';
+console.log(city);
