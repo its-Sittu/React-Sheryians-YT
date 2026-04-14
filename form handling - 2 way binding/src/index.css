@@ -1,0 +1,16 @@
+button{
+  margin: 10px;
+  padding:  10px;
+  box-shadow: 10px 10px 5px grey;
+  background-color: cyan;
+}
+
+input{
+  background-color: rgb(138, 227, 134);
+  width: 100vh;
+  font-size: 20px;
+  padding: 10px 70px;
+  margin: 20px;
+  box-shadow: 10px 10px 5px grey;
+
+}
